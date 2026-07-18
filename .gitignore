@@ -1,0 +1,10 @@
+node_modules
+.next
+dist
+.wrangler
+out
+*.log
+.DS_Store
+.env*
+!.env.example
+tsconfig.tsbuildinfo

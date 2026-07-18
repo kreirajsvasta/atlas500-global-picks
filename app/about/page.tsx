@@ -1,0 +1,2 @@
+import LegalPage from "../legal-page";
+export default function Page(){return <LegalPage title="About Us"><p>Atlas500 Global Picks is an independent, compliance-first product discovery guide. We separate retail product recommendations from tools used to build and operate an online business.</p><p>Products are published only after their destination and identifying details can be checked. We do not present editorial forecasts as guaranteed sales results.</p></LegalPage>}

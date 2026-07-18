@@ -1,0 +1,25 @@
+.connected {
+  margin: 24px 0 12px;
+  padding: 13px 15px;
+  border-radius: 12px;
+  color: #174a2a;
+  background: #e1f5e7;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.tool-button {
+  display: inline-block;
+  margin: 4px 0 16px;
+  padding: 13px 17px;
+  border-radius: 999px;
+  color: #fff;
+  background: var(--sage);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.tool-button.secondary {
+  color: var(--sage);
+  background: #e7efe9;
+}

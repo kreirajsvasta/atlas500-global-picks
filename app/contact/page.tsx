@@ -1,0 +1,2 @@
+import LegalPage from "../legal-page";
+export default function Page(){return <LegalPage title="Contact"><p>Atlas500 Global Picks is an independent affiliate product-discovery site.</p><p className="callout"><strong>Product, order or return question?</strong><br/>Use the support channel shown on the destination retailer’s website. Atlas500 is not the seller, payment processor or shipper and cannot access retailer orders.</p><p>No public owner email address is collected or displayed on this version of the site.</p></LegalPage>}
